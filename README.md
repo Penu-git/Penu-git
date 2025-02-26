@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Penuel Akomolafe
 - 👀 I’m interested in building apps
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on building my frst app
 - 📫 How to reach me penuelakomolafe@gmail.com
 - 😄 Pronouns: He
